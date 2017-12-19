@@ -39,10 +39,13 @@ Remember the following informations:
 Open cygwin shell and run
 
 ```bash
-cd /cygdrive/c/Dev/openjfx/10-dev/
+# setup some vars (see above)
 export VS150COMNTOOLS="C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Auxiliary\Build"
 export JAVA_HOME="C:\Program Files\Java\jdk-9.0.1"
 export MSVC_VER=14.11.25503
+
+# navigate to the checked out sources
+cd /cygdrive/c/Dev/openjfx/10-dev/
 
 # clean up from previous builds
 rm -rf build
