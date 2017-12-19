@@ -11,7 +11,7 @@ How to build OpenJFX
 ## Prepare
 
 * Create a directory C:/Dev/openjfx/10-dev
-* Clone http://hg.openjdk.java.net/openjfx/10-dev/rt/ 
+* Clone http://hg.openjdk.java.net/openjfx/10-dev/rt/ into that directory
 
 ## Software to install
 
